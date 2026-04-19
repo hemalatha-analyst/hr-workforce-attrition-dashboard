@@ -109,10 +109,17 @@ This dashboard helps HR teams:
 - Optimize workforce planning  
 - Improve employee satisfaction and productivity  
 
----
+--
+## 📂 Project Files
 
-## 📷 Dashboard Preview
-(Add your Power BI dashboard screenshot here)
+📊 Dashboard Preview  
+![HR Dashboard](https://github.com/hemalatha-analyst/hr-workforce-attrition-dashboard/blob/main/HR_Dashboard_Overview.png?raw=true)
+
+📁 Power BI Report File  
+[Download PBIX File](https://github.com/hemalatha-analyst/hr-workforce-attrition-dashboard/blob/main/HR_Workface_Dashboard.pbix)
+
+📊 Dataset File  
+[Download Excel Dataset](https://github.com/hemalatha-analyst/hr-workforce-attrition-dashboard/blob/main/HR_Workforce_Dataset.xlsx)
 
 ---
 
